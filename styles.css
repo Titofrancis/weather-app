@@ -1,6 +1,8 @@
 body{
-    background: #eeedec;
+    /* background: #eeedec; */
+    background-image: url("img/icons/weather-bg.jpg");
     letter-spacing: 0.2em;
+    background-repeat: no-repeat;
     font-size: 0.8em;
 }
 .container{
